@@ -1,6 +1,6 @@
 ﻿using System;
 
-class pasdfsadfssadfads
+class program
 {
     static void Main()
     {
